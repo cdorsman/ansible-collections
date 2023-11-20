@@ -1,0 +1,3 @@
+[submodule "ansible-collection-hardening"]
+	path = ansible-collection-hardening
+	url = git@github.com:cdorsman/ansible-collection-hardening.git
